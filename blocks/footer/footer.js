@@ -48,7 +48,7 @@ export default async function decorate(block) {
         </div>
     </div>
     <div class="block-up-gene-right">
-        <div class="block-up-right " style="padding-right: 709px;">
+        <div class="block-up-right " style="padding-right: 20px;">
             <div class="ac-typeTagL">
         
         <p>ESCRÍBENOS</p>
