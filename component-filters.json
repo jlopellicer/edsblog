@@ -15,7 +15,16 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "newsletter",
+      "quicklinks", 
+      "mostread",
+      "accionafooter",
+      "accionaheader",
+      "homebanner",
+      "categoriesbanner",
+      "categories",
+      "entryheader"
     ]
   },
   {
