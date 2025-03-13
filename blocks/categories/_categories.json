@@ -1,0 +1,27 @@
+{
+    "definitions": [
+      {
+        "title": "categories",
+        "id": "categories",
+        "plugins": {
+          "xwalk": {
+            "page": {
+              "resourceType": "core/franklin/components/block/v1/block",
+              "template": {
+                "name": "categories",
+                "model": "categories"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "categories",
+        "fields": []
+      }
+    ],
+    "filters": []
+  }
+  
